@@ -6,4 +6,9 @@ origin of file is master
 
 it has been resolved in hotfix branch.
 
-changes done on hotfix.
+changes done on hotfix
+
+
+3. some task has been done on branch dev2.
+
+changes hasbeen performed
