@@ -12,3 +12,9 @@ changes done on hotfix.
 3. changes has been done on dev1 branch
 
 work has been completed on dev1
+
+
+3. some task has been done on branch dev2.
+
+changes has been performed
+
